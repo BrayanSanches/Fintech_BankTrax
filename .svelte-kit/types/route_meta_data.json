@@ -1,0 +1,7 @@
+{
+	"/(app)": [],
+	"/": [],
+	"/(menu)/dashboard": [],
+	"/(app)/login": [],
+	"/(app)/register": []
+}
